@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <libro id="L001" disponible="true">
+        <titulo>Python práctico</titulo>
+        <autor>Ana Ruiz</autor>
+        <precio moneda="EUR">29.95</precio>
+        <stock>4</stock>
+    </libro>
+
+    <libro id="L002" disponible="true">
+        <titulo>Acceso a Datos</titulo>
+        <autor>Luis Martín</autor>
+        <precio moneda="EUR">35.50</precio>
+        <stock>8</stock>
+    </libro>
+
+    <libro id="L003" disponible="false">
+        <titulo>Interfaces con Python</titulo>
+        <autor>Marta López</autor>
+        <precio moneda="EUR">27.90</precio>
+        <stock>0</stock>
+    </libro>
+</catalogo>
